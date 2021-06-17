@@ -73,3 +73,8 @@ Todo
 
 This code is MVP and needs a lot of improvements.
 Some of them are, optimize all queries, implement searching and filtering and implement smart caching of entities.
+
+
+.. image:: https://badges.gitter.im/phospi/towerlib.svg
+   :alt: Join the chat at https://gitter.im/phospi/towerlib
+   :target: https://gitter.im/phospi/towerlib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
